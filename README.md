@@ -5,3 +5,13 @@
 [![CI/CD Pipeline](https://github.com/AKITAHARI/devops-for-developers-project-74/actions/workflows/push.yml/badge.svg)](https://github.com/AKITAHARI/devops-for-developers-project-74/actions/workflows/push.yml)
 
 # DevOps for Developers Project
+
+## Требования к системе
+- Docker
+- Docker Compose
+
+## Запуск проекта
+
+### Разработка
+```bash
+docker compose up
